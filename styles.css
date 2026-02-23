@@ -603,7 +603,6 @@ ul {
 
 /* Process Section */
 #process {
-    grid-template-columns: 1fr;
     padding: 100px 0;
     background: var(--light-gray);
 }
